@@ -19,7 +19,7 @@ export const projects = [
     title: "ResumeHacker",
     subtitle: "React, Material UI and ExpressJs",
     description:
-      "ResumeHacker allows new and experienced software developers to create interactive web-based resumes. The application uses  React and Material UI to give users an intuitive and simple way to accomplish that goal.",
+      "ResumeHacker allows new and experienced software developers to create interactive web-based resumes. The application uses  React and Material UI to give users an intuitive and simple way to accomplish that goal. User has a choice to upload avatar or photo and select different coding skills.",
     image: "./project-3.png",
     link: "https://github.com/ErnestAr/ResumeHacker",
   },
