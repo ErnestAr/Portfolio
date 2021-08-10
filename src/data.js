@@ -25,8 +25,6 @@ export const projects = [
   },
 ];
 
-
-
 export const skills = [
   "JavaScript",
   "Python 3",
