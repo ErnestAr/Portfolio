@@ -24,7 +24,7 @@ export default function Contact() {
                 <a href="mailto:arutiunian.ernest@gmail.com" className="flex items-center justify-center w-10 h-10 rounded-full bg-violet-600 text-coolGray-50">
                   <AiOutlineMail  className="text-indigo-500 w-8 h-8 flex-shrink-0 mr-4" />
                 </a>
-                <a href="https://www.linkedin.com/in/ernest-arutiunian-ab5b991a4/" className="flex items-center justify-center w-10 h-10 rounded-full bg-violet-600 text-coolGray-50">
+                <a href="https://www.linkedin.com/in/ernest-arutiunian/" className="flex items-center justify-center w-10 h-10 rounded-full bg-violet-600 text-coolGray-50">
                   <SiLinkedin  className="text-indigo-500 w-8 h-8 flex-shrink-0 mr-4" />
                 </a>
               </div>
